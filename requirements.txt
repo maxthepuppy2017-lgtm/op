@@ -1,0 +1,15 @@
+telethon
+pyrogram
+telebot
+kvsqlite
+schedule
+requests
+user_agent
+base64
+ipaddress
+struct
+pathlib
+typing
+aiosqlite
+pyqt5==5.15.4
+secrets
